@@ -1,6 +1,12 @@
 # Denoising U-Net
 - U-Net을 이용하여 이미지의 노이즈를 제거하는 모델
 
+## INSTALL 
+- 도커 이미지 혹은 git clone을 사용하여 다운한다.
+- Docker hub : https://hub.docker.com/r/skatld802/denoising-unet
+``` console
+    $ docker pull skatld802/denoising-unet
+```
 
 ## Modify Image Name
 ---
